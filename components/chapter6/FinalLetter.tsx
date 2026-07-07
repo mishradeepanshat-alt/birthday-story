@@ -55,7 +55,7 @@ With all my affection, admiration, and best wishes,
 
 Forever cheering for your happiness,
 
-yours well wisher ❤️`;
+your well wisher ❤️`;
 useEffect(() => {
   play("paper/unfold", 0.45);
 
