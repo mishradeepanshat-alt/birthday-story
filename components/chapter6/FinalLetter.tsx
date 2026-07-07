@@ -20,7 +20,7 @@ export default function FinalLetter({
 
   const letter=`My Dearest Anushka ❤️,
 
-  
+
 Happy Birthday.
 
 As I sit down to write this letter, I realize something beautiful—some people are simply impossible to describe with words. No matter how carefully I choose them, they never seem enough. And somehow, you are one of those rare people.
@@ -55,7 +55,7 @@ With all my affection, admiration, and best wishes,
 
 Forever cheering for your happiness,
 
-Deepansha ❤️`;
+yours well wisher ❤️`;
 useEffect(() => {
   play("paper/unfold", 0.45);
 
