@@ -20,12 +20,42 @@ export default function FinalLetter({
 
   const letter=`My Dearest Anushka ❤️,
 
+  
 Happy Birthday.
 
-As I sit down to write this letter, 
+As I sit down to write this letter, I realize something beautiful—some people are simply impossible to describe with words. No matter how carefully I choose them, they never seem enough. And somehow, you are one of those rare people.
 
-yours truly ❤️`;
+When I first thought about your birthday, I didn't want to send just another message or buy just another gift. I wanted to create something that would stay with you—a little journey that you could revisit whenever you smile, miss these moments, or simply need a reminder of how truly special you are.
 
+You have this incredible way of making ordinary days feel extraordinary. Your smile has the warmth of sunrise after a long night, your laughter has the power to brighten even the heaviest moments, and your kindness quietly leaves happiness wherever you go. I don't know if you realize it, but the people who have you in their lives are genuinely lucky.
+
+Looking back through all these memories, I couldn't help but smile. Every picture carries a story. Every video holds a moment that deserves to be remembered. Together, they remind me that life becomes beautiful not because of places or things, but because of the people we share it with. And for me, you are one of those people who makes memories feel priceless.
+
+Today is your day.
+
+I hope this new year of your life brings you countless reasons to smile, the courage to chase every dream you've ever had, and the strength to overcome every challenge that comes your way. I hope your heart is always filled with peace, your mind with confidence, and your life with endless happiness.
+
+Never let anyone make you believe you are anything less than extraordinary. You are stronger than you know, kinder than you realize, and more beautiful than words could ever explain—not just because of how you look, but because of the person you are inside.
+
+If, someday, life becomes difficult and the world feels a little too heavy, I hope you remember this simple truth:
+
+"You are loved. You are appreciated. And you matter more than you may ever fully realize."
+
+Thank you for being exactly who you are. Thank you for every smile, every conversation, every memory, and every little moment that made life brighter.
+
+I hope this small surprise made your birthday a little more magical, because creating it for you has been one of the happiest things I've ever done.
+
+So here's to you—to your dreams, your happiness, your beautiful heart, and all the incredible adventures waiting ahead.
+
+May this birthday be only the beginning of the most wonderful chapter of your life.
+
+Happy Birthday, Anushka. ❤️
+
+With all my affection, admiration, and best wishes,
+
+Forever cheering for your happiness,
+
+Deepansha ❤️`;
 useEffect(() => {
   play("paper/unfold", 0.45);
 
